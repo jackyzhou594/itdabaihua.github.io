@@ -18,7 +18,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 
-微软认证讲师、阿里认证讲师、IDCF认证讲师
-EXIN DevOps Master
-认证敏捷教练（CSM）
+微软认证讲师、阿里认证讲师、IDCF认证讲师 </br>
+EXIN DevOps Master </br>
+认证敏捷教练（CSM） </br>
 资深研发效能咨询顾问，帮助数百家世界五百强企业完成数字化转型工作，涉及金融、汽车、保险、制造、电商等各类领域。
