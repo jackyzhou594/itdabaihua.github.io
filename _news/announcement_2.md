@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: 工具+AI法力无边（快速进行增删改查以及测试数据的创建）
+date: 2022-12-17 16:11:00-0400
 inline: false
 ---
 
