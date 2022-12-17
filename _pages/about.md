@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: 微软最具价值专家（MVP）、华为云最具价值专家（MVP）
 
