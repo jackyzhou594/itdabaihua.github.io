@@ -1,9 +1,14 @@
 ---
 layout: post
-title: a post with giscus comments
+title: 微软数字化转型，最佳实践
 date: 2022-12-10 11:59:00-0400
-description: an example of a blog post with giscus comments
-categories: sample-posts external-services
+description: 从持续交付的7大领域，分别介绍微软在过去几年中，如何完成敏捷以及DevOps的转型工作。
+categories: 持续交付 研发效能
 giscus_comments: true
 ---
-This post shows how to add GISCUS comments.
+团队模型：从早期的产品经理、开发、测试、运维的职能型团队，转变为15人左右的敏捷团队。
+分支策略：分支开发，主干发布。
+测试策略：测试左移，使用单元测试的方式逐步将质量前移到研发侧。
+部署模型：持续交付，从2年交付一个版本，到每天可以发布多次，按需交付。
+数据库：持续部署，前后兼容
+基础架构：容器化转型。
